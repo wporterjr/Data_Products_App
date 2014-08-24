@@ -10,7 +10,7 @@ Modern technology has enabled increasing gas miliage in vehicles and more and mo
 This application will adjust your car's miliage based on your beef consumption.  It demonstrates that the amount of beef that you consume affects the ammount of gasoline that you use almost as much as what kind of car you drive.  It uses the widely accepted fact that it takes one gallon of gasoline to produce one pound of grain fed beef.*  It ignores the other main effects of beef production such as water use, methane (greenhouse gas) producion, land use, grain use, etc.
 
 Link:
-https://github.com/wporterjr/Data_Products_App
+http://rpubs.com/wporter/26807
 
 
 Enjoy!
