@@ -1,5 +1,5 @@
 ## Coursera Data Products Class Project
-## Beef gas miliage adjuster
+## Beef gas mileage adjuster
 ## server.R
 
 
@@ -23,7 +23,7 @@ adjustedGas <- function(Beef, burger, mpg, dist) {
     return(adjustedGas)
 }
 
-# Calculates your adjusted miliage based on all factors
+# Calculates your adjusted mileage based on all factors
 adjustedmpg <- function(Beef, burger, mpg, dist) {
     beefGas <- beefdata[beefdata$Meal==Beef, 2]
     gallonsUsed <- dist / mpg
